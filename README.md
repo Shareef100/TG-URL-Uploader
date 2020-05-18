@@ -11,13 +11,15 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 ### Installation
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hashimkp/TG-URL-Uploader/tree/master)
+
 #### The Easiest Way
 
 **upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
 
 #### The Easy Way
 
-**Watch our Video for Create own Bot** - 👉 https://youtu.be/QkAkSLBgoYw
+**Watch our Video for Create own Bot** - 
 
 #### The Hard Way
 
@@ -31,9 +33,7 @@ python bot.py
 ```
 ## Our Telegram Channel and Group
 
-* [TG Bots Updates](https://telegram.dog/TGBotsz)
-* [InFoTel Paid Apps](https://telegram.dog/InFoTel14)
-* [InFoTel Group](https://telegram.dog/InFoTelGroup)
+*
 
 ## Credits, and Thanks to
 
